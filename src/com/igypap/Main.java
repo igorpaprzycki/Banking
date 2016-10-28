@@ -23,7 +23,7 @@ public class Main {
 
         if(!bank.addCustomer("Melbourne","Brian",5.53)){
             System.out.println("Error Melbourne branch does not exist");
-            System.out.println("Generated only for GIT revision purposes");
+            
         }
 
 
